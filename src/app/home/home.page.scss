@@ -1,0 +1,48 @@
+ion-card {
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+  margin-bottom: 24px;
+}
+
+ion-card-title, ion-card-subtitle {
+  text-align: center;
+}
+
+ion-button {
+  border-radius: 12px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+ion-item {
+  --background: #f1f3f5;
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+
+ion-list-header {
+  font-weight: bold;
+  font-size: 1.1em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-top: 20px;
+}
+
+ion-item {
+  font-weight: 500;
+}
+
+
+
+#container p {
+  font-size: 16px;
+  line-height: 22px;
+
+  color: #8c8c8c;
+
+  margin: 0;
+}
+
+#container a {
+  text-decoration: none;
+}
